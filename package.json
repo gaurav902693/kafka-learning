@@ -1,0 +1,14 @@
+{
+  "name": "kafka-node-demo",
+  "version": "1.0.0",
+  "description": "Kafka is a pub/sub model  Tools:     1) NodeJs     2) Docker     3) Any editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  }
+}
